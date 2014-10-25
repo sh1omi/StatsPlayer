@@ -1,0 +1,16 @@
+name: StatsPlayer
+author: sh1omi
+main: me.sh1omi.stats.MainClass
+version: 1.0
+description: Stats player
+commands:
+  stats:
+    description: Show player stats
+    usage: /stats
+  resetstats:
+    description: Reset player stats
+    usage: /resetstats
+    permission: stats.reset
+  creditstats:
+    description: Reset player stats
+    usage: /resetstats
